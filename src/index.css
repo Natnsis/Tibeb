@@ -2,28 +2,28 @@
 
 @theme {
   /* Brand Colors */
-  --color-primary: #D4A857;
-  --color-bluish: #2F4A6D;
-  --color-reddish: #B8452E;
-  --color-greenish: #3E6B5A;
+  --color-primary: #d4a857;
+  --color-bluish: #2f4a6d;
+  --color-reddish: #b8452e;
+  --color-greenish: #3e6b5a;
 
   /* Light Mode Palette */
-  --color-main-bg: #F7F5F2;
-  --color-card-bg: #FFFFFF;
-  --color-muted-bg: #EFEAE3;
+  --color-main-bg: #f7f5f2;
+  --color-card-bg: #ffffff;
+  --color-muted-bg: #efeae3;
   --color-text-primary: #111111;
-  --color-text-secondary: #6B6B6B;
-  --color-text-tertiary: #E0E0E0;
+  --color-text-secondary: #6b6b6b;
+  --color-text-tertiary: #e0e0e0;
 
   /* Dark Mode Palette */
-  --color-dark-main-bg: #0F0F10;
-  --color-dark-card-bg: #1A1A1C;
+  --color-dark-main-bg: #0f0f10;
+  --color-dark-card-bg: #1a1a1c;
   --color-dark-muted-bg: #222225;
-  --color-dark-text-primary: #FFFFFF;
-  --color-dark-text-secondary: #A1A1AA;
+  --color-dark-text-primary: #ffffff;
+  --color-dark-text-secondary: #a1a1aa;
 
   /* Accents */
-  --color-yellow-accent: #E0B96A;
-  --color-blue-accent: #3A5F85;
-  --color-red-accent: #C6543C;
+  --color-yellow-accent: #e0b96a;
+  --color-blue-accent: #3a5f85;
+  --color-red-accent: #c6543c;
 }
