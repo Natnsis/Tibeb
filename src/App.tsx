@@ -1,12 +1,12 @@
-import Button from './components/Button'
+import Button from "./components/Button";
 
 const App = () => {
   return (
     <main className='flex flex-col'>
-      <h1 className='text-4xl mb-10'>hello there</h1>
+      <h1>hello there</h1>
       <div className='space-x-10'>
-      <Button className='text-priamry'>Submit here</Button>
-      <Button>Cancel</Button>
+        <Button className='text-primary'>hehe</Button>
+        <Button>hehe</Button>
       </div>
   </main>
   )
