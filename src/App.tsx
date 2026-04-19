@@ -8,7 +8,7 @@ const App = () => {
       <Button className='text-priamry'>Submit here</Button>
       <Button>Cancel</Button>
       </div>
-    </main>
+  </main>
   )
 }
 
