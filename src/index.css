@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@theme {
+ --color-background: var(--color-zink-200);
+ --color-foregraound: var(--color-zink-700);
+ --color-primary: var(--color-indigo-600)
+}
+
+@layer theme {
+  .dark{
+ --color-background: var(--color-zink-900);
+ --color-foregraound: var(--color-zink-100);
+ --color-primary: var(--color-indigo-400)
+  }
+}
